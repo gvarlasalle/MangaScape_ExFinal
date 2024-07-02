@@ -82,16 +82,16 @@ El tree del proyecto se adjuntara en el siguiente link
 - https://drive.google.com/file/d/1bwNK-rwLXqbS25Eq6dA9iPToQwhbm5eA/view?usp=sharing
 
 # Ejecución
-
-
-
-
+Pantallas de la ejecución del programa 
+![Pantalla1](https://github.com/gvarlasalle/MangaScape_ExFinal/assets/113551408/199d37bc-a092-407e-9cd7-9618cbbe4537)
+![Pantalla2](https://github.com/gvarlasalle/MangaScape_ExFinal/assets/113551408/56131454-3b0a-4f1e-80b7-57275caf6c4a)
 # Mockups
+- Djgango
+![Mouckup de Djgango1](https://github.com/gvarlasalle/MangaScape_ExFinal/assets/113551408/04320356-d2fe-43b3-9e7c-4bd9a8d1b81c)
+![Mouckup de Djgango2](https://github.com/gvarlasalle/MangaScape_ExFinal/assets/113551408/69be67a9-a26f-4e6e-ac4e-366512a56c40)
 
-
-
-
-
+- DjangoRest
+![Mouckup de DjgangoRest](https://github.com/gvarlasalle/MangaScape_ExFinal/assets/113551408/474a011f-8e34-4f7b-b368-69c9c839a569)
 
 # Referencias
  - https://www.djangoproject.com/download/
