@@ -52,7 +52,7 @@ Gestión de Dependencias:
 
 Usar herramientas como pip (Python) y npm (Node.js) para gestionar y mantener actualizadas las dependencias del proyecto.
 # Intalación
-Para el presente trabajo se trabajo con las siguientes tecnologias
+Para el presente trabajo se hizo con las siguientes tecnologias
 
 
 ## Tecnologías Utilizadas
