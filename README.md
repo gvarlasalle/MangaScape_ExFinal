@@ -78,18 +78,10 @@ Asegúrate de tener instalados los siguientes programas:
 - Instalacion del Node.js desde la página principal
 - `npm install -g @vue`
 # TREE
-
-
-
+El tree del proyecto se adjuntara en el siguiente link 
+- https://drive.google.com/file/d/1bwNK-rwLXqbS25Eq6dA9iPToQwhbm5eA/view?usp=sharing
 
 # Ejecución
-
-
-
-
-
-
-
 
 
 
