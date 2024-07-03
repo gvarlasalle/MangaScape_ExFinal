@@ -9,7 +9,7 @@
   - Diego Ali
   - Aaron Zela
    
-# Requisitos Míninmos el sistema
+# Requisitos Mínimos el sistema
 
 Requisitos Mínimos para el Entorno de Desarrollo:
 Sistema Operativo:
