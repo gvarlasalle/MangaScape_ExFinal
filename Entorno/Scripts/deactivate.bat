@@ -1,3 +1,11 @@
+'''
+MangaScape
+Universidad La Salle - Arequipa
+- Diego Ali
+- Aaron Zela
+-Guillermo Ampuero
+'''
+
 @echo off
 
 if defined _OLD_VIRTUAL_PROMPT (
