@@ -1,3 +1,11 @@
+'''
+MangaScape
+Universidad La Salle - Arequipa
+- Diego Ali
+- Aaron Zela
+-Guillermo Ampuero
+'''
+
 <#
 .Synopsis
 Activate a Python virtual environment for the current PowerShell session.
